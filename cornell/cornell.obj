@@ -1,0 +1,79 @@
+# 
+# Wavefront OBJ file
+# Converted by the DEEP Exploration Deep Exploration 6.3 x64 6.3.5.8307
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+mtllib cornell.mtl
+# object gCeiling
+g gCeiling
+v -256.00000 400.00000 256.00000
+v 256.00000 400.00000 256.00000
+v 256.00000 400.00000 -256.00000
+v -256.00000 400.00000 -256.00000
+# 4 verticies
+vn 0.00000 -1.00000 0.00000
+# 1 normals
+usemtl matCeiling
+f  1//1 2//1 3//1
+f  1//1 3//1 4//1
+# object gFloor
+g gFloor
+v -256.00000 0.00000 256.00000
+v 256.00000 0.00000 256.00000
+v 256.00000 0.00000 -256.00000
+v -256.00000 0.00000 -256.00000
+# 4 verticies
+vn 0.00000 1.00000 0.00000
+# 1 normals
+usemtl matFloor
+f  5//2 6//2 7//2
+f  5//2 7//2 8//2
+# object gGreenWall
+g gGreenWall
+v -256.00000 0.00000 256.00000
+v -256.00000 400.00000 256.00000
+v -256.00000 400.00000 -256.00000
+v -256.00000 0.00000 -256.00000
+# 4 verticies
+vn 1.00000 0.00000 0.00000
+# 1 normals
+usemtl matGreenWall
+f  9//3 10//3 11//3
+f  9//3 11//3 12//3
+# object gRedWall
+g gRedWall
+v 256.00000 0.00000 256.00000
+v 256.00000 400.00000 256.00000
+v 256.00000 400.00000 -256.00000
+v 256.00000 0.00000 -256.00000
+# 4 verticies
+vn -1.00000 0.00000 0.00000
+# 1 normals
+usemtl matRedWall
+f  13//4 14//4 15//4
+f  13//4 15//4 16//4
+# object gGreyWall
+g gGreyWall
+v -256.00000 400.00000 256.00000
+v 256.00000 400.00000 256.00000
+v 256.00000 0.00000 256.00000
+v -256.00000 0.00000 256.00000
+# 4 verticies
+vn 0.00000 0.00000 -1.00000
+# 1 normals
+usemtl matGreyWall
+f  17//5 18//5 19//5
+f  17//5 19//5 20//5
+# object gLight
+g gLight
+v -128.00000 395.00000 80.00000
+v 128.00000 395.00000 80.00000
+v 128.00000 395.00000 -80.00000
+v -128.00000 395.00000 -80.00000
+# 4 verticies
+vn 0.00000 -1.00000 0.00000
+# 1 normals
+usemtl matLight
+f  21//6 22//6 23//6
+f  21//6 23//6 24//6

@@ -1,0 +1,48 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 6.3 x64 6.3.5.8307
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl matCeiling
+Ka 0.75 0.75 0.75
+Kd 0.75 0.75 0.75
+Ks 0.75 0.75 0.75
+illum 2
+Ns 8
+
+newmtl matFloor
+Ka 0.75 0.75 0.75
+Kd 0.75 0.75 0.75
+Ks 0.75 0.75 0.75
+illum 2
+Ns 8
+
+newmtl matGreenWall
+Ka 0.25 0.75 0.25
+Kd 0.25 0.75 0.25
+Ks 0.25 0.75 0.25
+illum 2
+Ns 8
+
+newmtl matRedWall
+Ka 0.75 0.25 0.25
+Kd 0.75 0.25 0.25
+Ks 0.75 0.25 0.25
+illum 2
+Ns 8
+
+newmtl matGreyWall
+Ka 0.75 0.75 0.75
+Kd 0.75 0.75 0.75
+Ks 0.75 0.75 0.75
+illum 2
+Ns 8
+
+newmtl matLight
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 8
