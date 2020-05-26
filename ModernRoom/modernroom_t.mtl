@@ -1,0 +1,710 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 6.3 x64 6.3.5.8307
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl caveRock
+Ka 1 1 1
+Kd 0.5882 0.5882 0.5882
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd caveDiffuseM.png
+map_bump caveNormalM.png
+bump caveNormalM.png
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl wallSciFiM
+Ka 1 1 1
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd wallScifiDiffuseM.png
+map_bump wallscifiNormalM.png
+bump wallscifiNormalM.png
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl base1M
+Ka 1 1 1
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd base1DiffuseM.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl barracksM
+Ka 1 1 1
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd barracksDiffuseM.png
+map_bump barracksNormalM.png
+bump barracksNormalM.png
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl crateWoodM
+Ka 1 1 1
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd crateWoodDiffuseM.png
+map_bump crateWoodNormalM.png
+bump crateWoodNormalM.png
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl crateRedM
+Ka 1 1 1
+Kd 0.5882 0.5882 0.5882
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd crateRedDiffuseM.png
+map_bump crateRedNormalM.png
+bump crateRedNormalM.png
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl crateGreyM
+Ka 1 1 1
+Kd 0.5882 0.5882 0.5882
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd crateGreyDiffuseM.png
+map_bump crateGreyNormalM.png
+bump crateGreyNormalM.png
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl oldBrickM
+Ka 1 1 1
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd oldBrickDiffuseM.png
+map_bump oldbrickNormalM.png
+bump oldbrickNormalM.png
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl grassM
+Ka 1 1 1
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd grassDiffuseM.png
+map_bump grassNormalM.png
+bump grassNormalM.png
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl barrelM
+Ka 1 1 1
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd barrelDiffuseM.png
+map_bump barrelNormalM.png
+bump barrelNormalM.png
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl streetM
+Ka 1 1 1
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd streetDiffuseM.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl base2M
+Ka 1 1 1
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd base2DiffuseM.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl AEGMainWallM
+Ka 1 1 1
+Kd 0.5882 0.5882 0.5882
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd aegMainWallDiffuseM.png
+map_bump aegMainWallNormalM.png
+bump aegMainWallNormalM.png
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl AEGDetailsM
+Ka 1 1 1
+Kd 0.5882 0.5882 0.5882
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd aegdetailsDiffuseM.png
+map_bump aegdetailsNormalM.png
+bump aegdetailsNormalM.png
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl matRefGlass
+Ka 0.1 0.1 0.1
+Kd 0.0784 0.0784 0.0784
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl AEGWindowMaterial
+Ka 0.717 0.878 0.717
+Kd 0.717 0.878 0.717
+Ks 0 0 0
+illum 2
+Ns 8
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl trenchM
+Ka 1 1 1
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd trenchDiffuseM.png
+map_bump trenchNormalM.png
+bump trenchNormalM.png
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl base3M
+Ka 1 1 1
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd base3DiffuseM.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl sandbagsM
+Ka 1 1 1
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd sandbagDiffuseM.png
+map_bump sandbagNormalM.png
+bump sandbagNormalM.png
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl matRefPipesM
+Ka 1 0.7529 0
+Kd 1 0.7529 0
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl aircounitM
+Ka 1 1 1
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd aircoDiffuseM.png
+map_bump aircoNormalM.png
+bump aircoNormalM.png
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl buildingM
+Ka 1 1 1
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd BuildingDiffuseM.png
+map_bump buildingNormalM.png
+bump buildingNormalM.png
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl buildingWindowsM
+Ka 0.3922 0.3922 0.3922
+Kd 0.3922 0.3922 0.3922
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl salkBaseM
+Ka 1 1 1
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd salkbaseDiffuseM.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl SalkFloorM
+Ka 1 1 1
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd salkfloorDiffuseM.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl salkPanelsM
+Ka 1 1 1
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd salkpanelsDiffuseM.png
+map_bump salkpanelsNormalM.png
+bump salkpanelsNormalM.png
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Explorer_Default
+Ka 0.117647 0.117647 0.117647
+Kd 0.752941 0.752941 0.752941
+Ks 0.752941 0.752941 0.752941
+illum 2
+Ns 8
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Clay
+Ka 1 1 1
+Kd 0.8706 0.8706 0.8706
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl tankBaseM
+Ka 1 1 1
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd tankDiffuseM.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl tankTreadsM
+Ka 1 1 1
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd treadsDiffuseM.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl tentsM
+Ka 1 1 1
+Kd 0.5882 0.5882 0.5882
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd Tents.png
+map_bump 
+bump 
+map_opacity TentsMalpha.tga
+map_d TentsMalpha.tga
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl emiPillar3
+Ka 1 1 1
+Kd 0.5882 0.5882 0.5882
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd lightDiffuseM.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl pillarM
+Ka 1 1 1
+Kd 0.5882 0.5882 0.5882
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd pillarDiffuseM.png
+map_bump pillarNormalM.png
+bump pillarNormalM.png
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl emiHose3_03
+Ka 1 1 1
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd emiHoseDiffuseM.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl emiHose3_01
+Ka 1 1 1
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd emiHoseDiffuseM.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl emiHose3_02
+Ka 1 1 1
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd emiHoseDiffuseM.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl emiHose2_03
+Ka 1 1 1
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd emiHoseDiffuseM.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl emiHose2_01
+Ka 1 1 1
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd emiHoseDiffuseM.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl emiHose2_02
+Ka 1 1 1
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd emiHoseDiffuseM.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl emiPillar2
+Ka 1 1 1
+Kd 0.5882 0.5882 0.5882
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd lightDiffuseM.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl pipeSectionM
+Ka 1 1 1
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd pipesectionDiffuseM.png
+map_bump pipesectionNormalM.png
+bump pipesectionNormalM.png
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl emiHose1_03
+Ka 1 1 1
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd emiHoseDiffuseM.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl emiHose1_01
+Ka 1 1 1
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd emiHoseDiffuseM.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl emiHose1_02
+Ka 1 1 1
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd emiHoseDiffuseM.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
